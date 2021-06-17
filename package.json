@@ -40,7 +40,7 @@
     "dateformat": "~3.0.3",
     "eventemitter2": "~0.4.13",
     "exit": "~0.1.2",
-    "findup-sync": "~0.3.0",
+    "findup-sync": "~4.0.0",
     "glob": "~7.1.6",
     "grunt-cli": "~1.4.2",
     "grunt-known-options": "~2.0.0",
